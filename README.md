@@ -1,2 +1,2 @@
-# groco-grocery-website
-My Groco Grocery Website
+# amaze-grocery-website
+My Amaze Grocery Website
